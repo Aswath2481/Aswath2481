@@ -9,7 +9,7 @@
   -  5+ years of professional experience in building and designing products.
   -  2+ years of experience in recruiting, training and building teams.
 
-- 💻 I currently work with [vTitan](vtitan.com) as Lead embedded software engineer. 
+- 💻 I currently work with [vTitan](https://vtitan.com) as Lead embedded software engineer. 
 
 - 📍  I collect various dev baords and uC but mainly works on stm32, a ARM-M cortex based 32 bit micro-controller.
 - 🌊 Apart from C++, I have experience in working with python 🐍 and C.
