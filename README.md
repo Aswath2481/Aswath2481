@@ -19,6 +19,7 @@
 ## 🤝 Connect with me:
 I could reply 💬 you in a few hrs if you send me a message in:
 <br>
-<a href="https://in.linkedin.com/in/aswath-sinivas"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="Aswath Sinivas | LinkedIn" width="21px"/></a>
-<a href="https://x.com/aswath2481"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" alt="Aswath Sinivas | Twitter" width="21px"/></a>
+<a href="https://in.linkedin.com/in/aswath-sinivas"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="Aswath Sinivas | LinkedIn" width="35px"/></a> 
+<a href="https://x.com/aswath2481"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" alt="Aswath Sinivas | Twitter" width="35px"/></a>
 </br>
+
