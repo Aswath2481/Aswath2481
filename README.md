@@ -1,5 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQGZN2VHFRkzeg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728754927630?e=1734566400&v=beta&t=EDIUvODaLjMzj_T5UPht13K6SpByrMA_zSOF9JgiuZo)
 ## Hello there👋, I am Aswath. I write and design safe, reliable low level code for micro-controllers.
-
 ### My main mantra for desiging and writing a softwares is: 
 > "Just becasue nobody sees it, doesn't mean it has to be ugly"
 
@@ -13,7 +13,7 @@
 
 - 📍  I collect various dev baords and uC but mainly works on stm32, a ARM-M cortex based 32 bit micro-controller.
 - 🌊 Apart from C++, I have experience in working with python 🐍 and C.
-- 🌱 Currently learning rust 🦀.
+- 🌱 Currently learning Zephyr 🪁 and how to build a [cpu 💻](https://github.com/Aswath2481/nandgame-solutions.git).
 - ✍ I publish my technical articles in [substack](https://aswath2481.substack.com/) and personal views in [inksigma](https://aswath.inksigma.com/).
 
 ## 🤝 Connect with me:
